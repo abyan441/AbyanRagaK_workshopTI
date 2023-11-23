@@ -1,5 +1,5 @@
 <p>
-    Nama : Mohammad Dimas Bahrul Ikhwani
+    Nama : Aditya Dimas Saputra
 </p>
 <p>
     Kelas / Prodi : 1A / TEKNOLOGI REKAYASA PERANGKAT LUNAK
